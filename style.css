@@ -373,12 +373,14 @@ a
 }
 .user
 {
+	
 	width: 200px;
 	height: 200px;
 	border-radius: 50px;
 }
 .profile
 {
+
 	padding: 70px 10px 10px;
 	background-color: #efefef;
 }
