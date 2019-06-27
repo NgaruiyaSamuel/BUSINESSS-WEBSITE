@@ -154,7 +154,9 @@ padding-left: 30px;
 }
 /*-----------------our team---------------------*/
 #team
-{
+{        
+	height: 280px;
+	width: 280px;
 	padding-top: 50px;
 	padding-bottom: 50px;
 	color: #555;
